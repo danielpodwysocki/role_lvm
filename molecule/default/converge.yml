@@ -1,0 +1,8 @@
+---
+- name: Converge
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: "Include danielpodwysocki.role_lvm"
+      ansible.builtin.include_role:
+        name: "danielpodwysocki.role_lvm"
