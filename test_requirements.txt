@@ -2,7 +2,7 @@ ansible==5.9.0
 ansible-compat==2.2.5
 ansible-core==2.12.10
 ansible-lint==6.9.0
-molecule==4.0.3
+molecule==4.0.4
 molecule-ec2==0.4
 molecule-vagrant==1.0.0
 boto3==1.26.57
