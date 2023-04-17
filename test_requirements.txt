@@ -1,5 +1,5 @@
 ansible==5.9.0
-ansible-compat==2.2.5
+ansible-compat==3.0.2
 ansible-core==2.12.10
 ansible-lint==6.9.0
 molecule==4.0.3
