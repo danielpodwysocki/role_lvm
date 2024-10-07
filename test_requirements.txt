@@ -1,6 +1,6 @@
 ansible==5.9.0
 ansible-compat==2.2.5
-ansible-core==2.12.10
+ansible-core==2.17.5
 ansible-lint==6.9.0
 molecule==4.0.3
 molecule-ec2==0.4
