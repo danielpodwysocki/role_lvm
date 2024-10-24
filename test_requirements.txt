@@ -6,4 +6,4 @@ molecule==4.0.3
 molecule-ec2==0.4
 molecule-vagrant==1.0.0
 boto3==1.26.57
-botocore==1.29.41
+botocore==1.35.48
